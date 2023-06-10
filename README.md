@@ -1,12 +1,18 @@
 ## Project Structure
 
-![Project Structure](./ss/Project structure.png)
+<div style="background-color: black; padding: 15px; border-radius: 25px; border: .5px dashed white;">
+    <img src="./ss/Project structure.png"/>
+</div>
 
 ## Docker
 
-![Docker](./ss/Docker.png)
+<div style="background-color: black; padding: 15px; border-radius: 25px; border: .5px dashed white;">
+    <img src="./ss/Docker.png"/>
+</div>
 
 ## Communication btw microservices via Feign Client(sync) and Kafka Message Broker(async)
 
-![Communication btw services](./ss/Communication btw Services.png)
+<div style="background-color: black; padding: 15px; border-radius: 25px; border: .5px dashed white;">
+    <img src="./ss/Communication btw Services.png"/>
+</div>
 
