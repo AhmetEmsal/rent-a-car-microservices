@@ -8,5 +8,5 @@
 
 ## Communication btw microservices via Feign Client(sync) and Kafka Message Broker(async)
 
-![Docker](./ss/Communication btw Services.png)
+![Communication btw services](./ss/Communication btw Services.png)
 
